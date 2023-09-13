@@ -1,6 +1,6 @@
-# Resolution
+# Revolution
 
-Landing page for Resolution Project
+Landing page for Revolution Project
 -- A front-end practice project
 -- Only use HTML, CSS and JS
 
